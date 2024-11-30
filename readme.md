@@ -1,7 +1,7 @@
 # Sleeping TA Simulation
 
-## Overview
-This project simulates the "Sleeping TA" problem using Java. It demonstrates concurrency control using threads, mutex locks, and semaphores, modeling the interaction between Teaching Assistants (TAs) and students seeking help in a computer science department.
+### Overview
+##### ==This project simulates the "Sleeping TA" problem using Java. It demonstrates concurrency control using threads, mutex locks, and semaphores, modeling the interaction between Teaching Assistants (TAs) and students seeking help in a computer science department.==
 
 In this simulation:
 - Students are represented as threads.
