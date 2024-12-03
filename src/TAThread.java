@@ -1,5 +1,5 @@
 package sleepingta;
-// import sleepingta.SleepingTA;
+import sleepingta.SleepingTA;
 class TA implements Runnable {
     
     private final SleepingTA taRoom;

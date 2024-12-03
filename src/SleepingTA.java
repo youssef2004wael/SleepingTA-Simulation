@@ -1,4 +1,4 @@
-package sleppingta;
+package sleepingta;
 import java.util.concurrent.Semaphore;
 /// Shared Resources Definition 
 public class SleepingTA {
