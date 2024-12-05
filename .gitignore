@@ -1,4 +1,4 @@
-src/SleepingTAGUI.java
-src/TAThread.java
 src/SleepingTA.java
+src/SleepingTAGUI.java
 src/StudentThread.java
+src/TAThread.java
