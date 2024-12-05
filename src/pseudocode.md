@@ -12,11 +12,11 @@
    - If a student arrives during this time, the student must wake up the TA to ask for help.
 ---
 ### Pseudocode 
-```py
+```txt
 # Initialize the system
-Set number of TAs = 2
-Set number of chairs = 3
-Set number of students = 20
+Set number of TAs = Scanner.nextInt()
+Set number of chairs = Scanner.nextInt()
+Set number of students = Scanner.nextInt()
 
 while true:
     # Check if there are students who need help
